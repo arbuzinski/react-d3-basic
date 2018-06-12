@@ -34,10 +34,12 @@
     "json-loader": "^0.5.3",
     "jsx-loader": "^0.13.2",
     "react-bootstrap": "^0.28.3",
+    "prop-types": "15.6.1",
     "react-hot-loader": "^1.3.0",
     "react-router": "^2.0.0",
     "style-loader": "^0.12.4",
     "tapable": "^0.2.4",
+    "webpack": "^1.12.2",
     "webpack-dev-middleware": "^1.5.1",
     "webpack-dev-server": "^1.11.0",
     "webpack-hot-middleware": "^2.9.1"
@@ -49,8 +51,8 @@
   "dependencies": {
     "d3-array": "^0.7.1",
     "d3-scale": "^0.6.4",
-    "react-d3-core": "^1.2.8",
-    "react-d3-shape": "^0.2.13",
+    "react-d3-core": "incadoi/react-d3-core#master",
+    "react-d3-shape": "incadoi/react-d3-shape#master",
     "react-faux-dom": "^2.1.0"
   }
 }
