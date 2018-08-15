@@ -44,15 +44,13 @@
     "webpack-dev-server": "^1.11.0",
     "webpack-hot-middleware": "^2.9.1"
   },
-  "peerDependencies": {
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7"
-  },
   "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
     "d3-array": "^0.7.1",
     "d3-scale": "^0.6.4",
-    "react-d3-core": "incadoi/react-d3-core#master",
-    "react-d3-shape": "incadoi/react-d3-shape#master",
+    "react-d3-core": "arbuzinski/react-d3-core#master",
+    "react-d3-shape": "arbuzinski/react-d3-shape#master",
     "react-faux-dom": "^2.1.0"
   }
 }
